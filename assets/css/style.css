@@ -592,3 +592,20 @@ CSS de areas espefificas
     font-size: 13px;
     padding-bottom: 25px;
 }
+
+.price-btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.choose-btn {
+    padding: 10px 35px;
+    border-radius: 20px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bolder;
+    background-color: rgb(50, 50, 50);
+    border: none;
+
+}
