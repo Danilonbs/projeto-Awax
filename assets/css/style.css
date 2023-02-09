@@ -747,3 +747,19 @@ CSS de areas espefificas
 .stats-body {
     height: 100px;
 }
+
+.tell-body {
+    display: flex;
+}
+
+.logo-img {
+    width: 40px;
+    height: 40px;
+    background-color: #33c6f1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 35px;
+}
