@@ -704,3 +704,46 @@ CSS de areas espefificas
     color: white;
     font-size: 11px;
 }
+
+.stats-area {
+    display: flex;
+    justify-content: center;
+}
+
+.sats-box {
+    width: 160px;
+    margin: 0 40px;
+}
+
+.n-title {
+    color: #B28756;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+
+.p-border {
+    background-color:#7E7E7E;
+    width: 20px;
+    height: 5px;
+    margin-left: 70px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+.sats-box h3 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.sats-box .p-desc {
+    color: #52525A;
+    text-align: center;
+    font-size: 10px;
+}
+
+.stats-body {
+    height: 100px;
+}
